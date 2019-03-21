@@ -92,37 +92,54 @@ Movement of a fluid from an area of higher concentration to an area of lower con
 \begin{figure}[t]
     \centering
     \includegraphics[width=180px]{plots/Heatup/pot_energy_heatup.png}
-    \caption{Always provide a short description of the figure.}
-    \label{myfigure}
+    \caption{x-axis: time in picoseconds; y-axis: potential energy in kilojoule; By increasing the tempreature of the system, the potential energy is rising. The thermostat fixes the kinetic energy, which can lead to a loss of potential energy (which can be seen in this plot). Particles can be accelerated or slowed down by the thermostat.}
+    \label{heatup_potentialenergy}
 \end{figure}
 
 \begin{figure}[t]
     \centering
     \includegraphics[width=180px]{plots/Heatup/temp_heatup.png}
-    \caption{Always provide a short description of the figure.}
-    \label{myfigure}
+    \caption{x-axis: time in picoseconds; y-axis: temperature in Kelvin; Heating of the system increases the overall temperature over time.}
+    \label{heatup_tempreature}
 \end{figure}
 
 \begin{figure}[t]
     \centering
     \includegraphics[width=180px]{plots/potential_energy.png}
-    \caption{Always provide a short description of the figure.}
-    \label{myfigure}
+    \caption{x-axis: time in picoseconds; y-axis: potential energy in kilojoule per mol; As we slowly decrease the temperature the system is losing kinetic energy. Due to the decrease of energy in the system, the potential energy also decreases.
+The potential energy of atoms at higher temperatures is stored by electrons in excited states, additionally at higher temperatures more atoms are in excited rotationally states. [citation needed]
+Also the virial theorem specifies, that the potential energy and the kinetic energy in a system are depend on each other. [citation needed]}
+    \label{gas_to_liquid_potentialenergy}
 \end{figure}
 
 \begin{figure}[t]
     \centering
     \includegraphics[width=180px]{plots/rdf_mid.png}
-    \caption{Always provide a short description of the figure.}
-    \label{myfigure}
+    \caption{}
+    \label{rdf_mid}
 \end{figure}
 
 \begin{figure}[t]
     \centering
     \includegraphics[width=180px]{plots/temp_plot.png}
-    \caption{Always provide a short description of the figure.}
-    \label{myfigure}
+    \caption{x-axis: time in picoseconds; y-axis: temperature in Kelvin; The cooling of the system reduces the overall temperature.}
+    \label{gas_to_liquid_temperature}
 \end{figure}
+
+\begin{figure}[t]
+    \centering
+    \includegraphics[width=180px]{plots//freezing/freezing_pot_en.png}
+    \caption{x-axis: time in picoseconds; y-axis: potential energy in kilojoule; The decrease of temperature controled by the thermostat leads to a decreased potential energy.}
+    \label{freezing_pot_en}
+\end{figure}
+
+\begin{figure}[t]
+    \centering
+    \includegraphics[width=180px]{plots//freezing/freezing_temp.png}
+    \caption{x-axis: time in picoseconds; y-axis: temperature in Kelvin; The cooling of the system reduces the overall temperature.}
+    \label{freezing_temp}
+\end{figure}
+
 
 \begin{thebibliography}{100}
 \bibitem{Gonzalez} M.A.González: Force fields and molecular dynamics simulations. \textit{JDN}, Volume 12, 2011. 169 - 200. 2011.
