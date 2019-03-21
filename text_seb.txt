@@ -1,0 +1,23 @@
+The system on which we conducted our simulations consisted of a simple single-atom particle enviroment, consisting of 100 and later 
+of 216 atoms. The element we used was argon. Becuase of its inert state and single-atom nature (it does not create diatom structures 
+as a gas or fluid) [tutorail], it prooves as a reliable candidate for the simulations where we only wanted to observe the dynamics of phase
+transition, without any interference through molecule formation or dipolar interactions. The experiment consited of three parts:
+The transition from the gas state to the liquid state, then back to the gas state, and finally from the liquid to the solid state.
+The goal behind this was to observe the shift of potential energy thorughout the different transitions and its correlation 
+with the temperature within the system. We also calculated the radial distribution of the argon atoms throughout the various states
+and the diffusion constant.
+
+Methods
+
+As our system particle we used argon with 100 atoms for the transition from gas to liquid and back to gas, and 216 atoms for the
+transition from liquid to solid. Since the simulation was run on a single-atom system, the force-field, where the only relevant terms 
+were the Pauli-Repulsion and London-dispersion, could be kept very simple. The Pauli-Repulsion describes the force that prevents 
+atoms from overlapping[1], while the London-dispersion describes the effects of induced dipol-dipol interaction[2]. The simulations were
+done with Gromacs. To simulate the various transitions we adjusted the temperatures accordingly. To validate 
+the outcome of the phase transition we visualized the simulation with PyMol, where the observations confirmed our assumptions.
+We then extracted the potential and temperature curves with the gromacs "energy" command. For the diffusion constant we used "g_msd",
+while the radial distribution was calculated using "g_rdf". The plots were created with "xmgrace".
+
+1. On the Theory of Quantum Mechanics, P. A. M. Dirac, Proceedings of the Royal Society of London, Series A 112, #762 (October 1, 1926), pp. 661—677.
+2. London, F. (1930), "Zur Theorie und Systematik der Molekularkräfte"
+
