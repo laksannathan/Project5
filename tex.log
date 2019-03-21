@@ -1,12 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.30)  21 MAR 2019 15:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.21)  21 MAR 2019 15:52
 entering extended mode
-**./tex.tex
-(tex.tex
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tex.tex
+(./tex.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -20,19 +22,20 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
-y"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
- ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -273,7 +276,7 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -314,7 +317,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -337,55 +340,45 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.st
-y"
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
- ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.s
-ty"
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2018/02/14 3.18 The Babel package
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
-"
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
 File: switch.def 2018/02/14 3.18 Babel switching mechanism
 )
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\engl
-ish.ldf"
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2018/02/14 3.18 Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
-ef")
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count88
 )
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.
-sty"
-Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2018/02/11 v5.2c context-sensitive quotations (JAW)
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.
-sty"
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count89
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
@@ -397,45 +390,37 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \csq@tshold=\count95
 \csq@ltx@everypar=\toks17
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.
-def"
-File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2018/02/11 v5.2c csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.
-cfg"
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 )
 Package csquotes Info: Option 'babel' depreciated.
 (csquotes)             Using 'autostyle'.
 Package csquotes Info: Enabling multilingual quotes.
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen104
 ))
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen105
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count96
@@ -476,7 +461,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks23
 \thm@bodyfont=\toks24
@@ -488,53 +473,46 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@headsep=\skip48
 \dth@everypar=\toks28
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup4
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
-ty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
-ics.cfg"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
-x.def"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
 \epsfxsize=\dimen115
 \epsfysize=\dimen116
-) ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count108
 \float@exts=\toks29
@@ -542,19 +520,16 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks30
 \@floatcapt=\box29
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
-"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
-.cfg"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.
-sty"
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \heavyrulewidth=\dimen117
 \lightrulewidth=\dimen118
 \cmidrulewidth=\dimen119
@@ -573,17 +548,14 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count112
 \@thisrulewidth=\dimen129
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-hyperref.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-generic.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -622,32 +594,27 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
-sty"
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
-ty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
-.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen130
 \Hy@linkcounter=\count113
 \Hy@pagecounter=\count114
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
-f"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count115
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
-cfg"
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4509.
@@ -658,7 +625,8 @@ Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
 \c@Hy@tempcnt=\count116
- ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -682,14 +650,12 @@ LaTeX Info: Redefining \pageref on input line 6443.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
-ef"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
 \Fld@listcount=\count121
 \c@bookmark@seq@number=\count122
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
-check.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -698,7 +664,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (tex.aux)
+
+(./tex.aux)
 \openout1 = `tex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -715,9 +682,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
-
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count123
 \scratchdimen=\dimen134
@@ -730,13 +695,10 @@ ii"
 \MPnumerator=\count127
 \makeMPintoPDFobject=\count128
 \everyMPtoPDFconversion=\toks32
-)
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -745,16 +707,18 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 \AtBeginShipoutBox=\box31
 Package hyperref Info: Link coloring OFF on input line 32.
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
-ty"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
-estring.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count129
@@ -762,44 +726,47 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 32.
 LaTeX Info: Redefining \pageref on input line 32.
 LaTeX Info: Redefining \nameref on input line 32.
- (tex.out) (tex.out)
+
+(./tex.out) (./tex.out)
 \@outlinefile=\write3
 \openout3 = `tex.out'.
 
 LaTeX Font Info:    Try loading font information for U+rsfs on input line 34.
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 34.
- ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 34.
- ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Underfull \hbox (badness 3019) in paragraph at lines 35--35
 []\T1/cmr/bx/n/14.4 Introduction to Molec-u-lar
  []
 
-[1{C:/Users/laksa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 73.
 
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 73.
-<plots/rdf_solid.png, id=39, 794.97pt x 614.295pt>
+<plots/rdf_solid.png, id=40, 794.97pt x 614.295pt>
 File: plots/rdf_solid.png Graphic file (type png)
 <use plots/rdf_solid.png>
 Package pdftex.def Info: plots/rdf_solid.png  used on input line 83.
 (pdftex.def)             Requested size: 180.67566pt x 139.60704pt.
-<plots/rdf_liquid.png, id=40, 794.97pt x 614.295pt>
+<plots/rdf_liquid.png, id=41, 794.97pt x 614.295pt>
 File: plots/rdf_liquid.png Graphic file (type png)
 <use plots/rdf_liquid.png>
 Package pdftex.def Info: plots/rdf_liquid.png  used on input line 90.
@@ -814,34 +781,34 @@ Underfull \hbox (badness 1147) in paragraph at lines 99--101
 []\T1/cmr/m/n/10 Nearing r<3 the rdf is 0 as well for both
  []
 
-<plots/Heatup/pot_energy_heatup.png, id=41, 344.78813pt x 274.02374pt>
+<plots/Heatup/pot_energy_heatup.png, id=42, 344.78813pt x 274.02374pt>
 File: plots/Heatup/pot_energy_heatup.png Graphic file (type png)
 <use plots/Heatup/pot_energy_heatup.png>
 Package pdftex.def Info: plots/Heatup/pot_energy_heatup.png  used on input line
  107.
 (pdftex.def)             Requested size: 180.67566pt x 143.59283pt.
-<plots/Heatup/temp_heatup.png, id=42, 344.78813pt x 274.02374pt>
+<plots/Heatup/temp_heatup.png, id=43, 344.78813pt x 274.02374pt>
 File: plots/Heatup/temp_heatup.png Graphic file (type png)
 <use plots/Heatup/temp_heatup.png>
 Package pdftex.def Info: plots/Heatup/temp_heatup.png  used on input line 114.
 (pdftex.def)             Requested size: 180.67566pt x 143.59283pt.
-<plots/potential_energy.png, id=43, 344.78813pt x 274.02374pt>
+<plots/potential_energy.png, id=44, 344.78813pt x 274.02374pt>
 File: plots/potential_energy.png Graphic file (type png)
 <use plots/potential_energy.png>
 Package pdftex.def Info: plots/potential_energy.png  used on input line 121.
 (pdftex.def)             Requested size: 180.67566pt x 143.59283pt.
-<plots/temp_plot.png, id=44, 344.78813pt x 274.02374pt>
+<plots/temp_plot.png, id=49, 344.78813pt x 274.02374pt>
 File: plots/temp_plot.png Graphic file (type png)
 <use plots/temp_plot.png>
 Package pdftex.def Info: plots/temp_plot.png  used on input line 130.
 (pdftex.def)             Requested size: 180.67566pt x 143.59283pt.
-<plots//freezing/freezing_pot_en.png, id=45, 344.78813pt x 274.02374pt>
+<plots//freezing/freezing_pot_en.png, id=50, 344.78813pt x 274.02374pt>
 File: plots//freezing/freezing_pot_en.png Graphic file (type png)
 <use plots//freezing/freezing_pot_en.png>
 Package pdftex.def Info: plots//freezing/freezing_pot_en.png  used on input lin
 e 137.
 (pdftex.def)             Requested size: 180.67566pt x 143.59283pt.
-<plots//freezing/freezing_temp.png, id=46, 344.78813pt x 274.02374pt>
+<plots//freezing/freezing_temp.png, id=51, 344.78813pt x 274.02374pt>
 File: plots//freezing/freezing_temp.png Graphic file (type png)
 <use plots//freezing/freezing_temp.png>
 Package pdftex.def Info: plots//freezing/freezing_temp.png  used on input line 
@@ -852,45 +819,59 @@ Underfull \hbox (badness 1540) in paragraph at lines 151--152
 []\T1/cmr/m/n/10 M.A.González: Force fields and molec-u-
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
-[2 <./plots/rdf_solid.png> <./plots/rdf_liquid.png>] [3 <./plots/Heatup/pot_ene
-rgy_heatup.png> <./plots/Heatup/temp_heatup.png> <./plots/potential_energy.png>
- <./plots/temp_plot.png>] [4
 
- <./plots//freezing/freezing_pot_en.png> <./plots//freezing/freezing_temp.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
- (tex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+[][]\T1/cmr/m/n/10 UV-visible ab-sorp-tion spec-tra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+[][]\T1/cmr/m/n/10 Virialsatz [physik.comsoms-indirekt.de][]
+ []
+
+[2 <./plots/rdf_solid.png> <./plots/rdf_liquid.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
+ [3 <./plots/Heatup/pot_energy_heatup.png> <./plots/Heatup/temp_heatup.png> <./
+plots/potential_energy.png>] [4 <./plots/temp_plot.png> <./plots//freezing/free
+zing_pot_en.png> <./plots//freezing/freezing_temp.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
+ (./tex.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
 Package rerunfilecheck Info: File `tex.out' has not changed.
-(rerunfilecheck)             Checksum: 78BF673C8A0E56258931E2EDA761D087;243.
+(rerunfilecheck)             Checksum: 7CFAB87FA3877359C427DF68E48DBF57;239.
  ) 
 Here is how much of TeX's memory you used:
- 8110 strings out of 493305
- 116311 string characters out of 3129802
- 224845 words of memory out of 3000000
- 11491 multiletter control sequences out of 15000+200000
- 17050 words of font info for 54 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 28i,8n,28p,794b,385s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\laksa\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecti1000.pk> <C:\Users\laksa\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecbx1200.pk> <C:\Users\laksa\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\laksa\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\laksa\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\laksa\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\laksa\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Use
-rs/laksa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
-0.pfb><C:/Users/laksa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmmi5.pfb><C:/Users/laksa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmmi7.pfb><C:/Users/laksa/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/laksa/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/laksa/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tex.pdf (4 pages, 196022 bytes).
+ 8108 strings out of 494923
+ 113328 string characters out of 6180742
+ 220090 words of memory out of 5000000
+ 11252 multiletter control sequences out of 15000+600000
+ 17050 words of font info for 54 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 28i,8n,28p,792b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{https://physik.cosmos-indirekt.de/Physik-Schule/V
+irialsatz} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{http://www.chemguide.co.uk/analysis/uvvisible/theor
+y.html} has been referenced but does not exist, replaced by a fixed one
+
+ </home/stephan/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600
+pk> </home/stephan/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.
+600pk> </home/stephan/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm10
+00.600pk> </home/stephan/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecb
+x1440.600pk> </home/stephan/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/
+ecrm1200.600pk> </home/stephan/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecbx1728.600pk> </home/stephan/.texlive2017/texmf-var/fonts/pk/ljfour/jknapp
+en/ec/ecrm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on tex.pdf (4 pages, 179336 bytes).
 PDF statistics:
- 332 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
+ 347 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
