@@ -1,22 +1,23 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.30)  22 MAR 2019 09:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.30)  22 MAR 2019 11:56
 entering extended mode
 **./tex.tex
 (tex.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -364,12 +365,12 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2018/02/14 3.18 Babel common definitions
-\babel@savecnt=\count87
+\babel@savecnt=\count88
 \U@D=\dimen103
 
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
 ef")
-\bbl@dirlevel=\count88
+\bbl@dirlevel=\count89
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
@@ -382,19 +383,19 @@ Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.
 sty"
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count89
+\etb@tempcnta=\count90
 )
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
 y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-\csq@reset=\count90
-\csq@gtype=\count91
-\csq@glevel=\count92
-\csq@qlevel=\count93
-\csq@maxlvl=\count94
-\csq@tshold=\count95
+\csq@reset=\count91
+\csq@gtype=\count92
+\csq@glevel=\count93
+\csq@qlevel=\count94
+\csq@maxlvl=\count95
+\csq@tshold=\count96
 \csq@ltx@everypar=\toks17
 
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.
@@ -432,10 +433,10 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen109
 \caption@hangindent=\dimen110
 )
-\c@ContinuedFloat=\count96
+\c@ContinuedFloat=\count97
 )
-\c@subfigure=\count97
-\c@subtable=\count98
+\c@subfigure=\count98
+\c@subtable=\count99
 )
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
 y"
@@ -463,13 +464,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 "
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count99
+\inf@bad=\count100
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count100
-\leftroot@=\count101
+\uproot@=\count101
+\leftroot@=\count102
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count102
-\DOTSCASE@=\count103
+\classnum@=\count103
+\DOTSCASE@=\count104
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
@@ -478,15 +479,15 @@ LaTeX Info: Redefining \cdots on input line 596.
 \big@size=\dimen113
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count104
-\c@MaxMatrixCols=\count105
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
 \dotsspace@=\muskip10
-\c@parentequation=\count106
-\dspbrk@lvl=\count107
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
 \tag@help=\toks19
-\row@=\count108
-\column@=\count109
-\maxfields@=\count110
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
 \andhelp@=\toks20
 \eqnshift@=\dimen114
 \alignsep@=\dimen115
@@ -561,7 +562,7 @@ Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
 \epsfysize=\dimen123
 ) ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count111
+\c@float@type=\count112
 \float@exts=\toks29
 \float@box=\box28
 \@float@everytoks=\toks30
@@ -590,12 +591,12 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen131
 \cmidrulekern=\dimen132
 \defaultaddspace=\dimen133
-\@cmidla=\count112
-\@cmidlb=\count113
+\@cmidla=\count113
+\@cmidlb=\count114
 \@aboverulesep=\dimen134
 \@belowrulesep=\dimen135
-\@thisruleclass=\count114
-\@lastruleclass=\count115
+\@thisruleclass=\count115
+\@lastruleclass=\count116
 \@thisrulewidth=\dimen136
 )
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
@@ -660,8 +661,8 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen137
-\Hy@linkcounter=\count116
-\Hy@pagecounter=\count117
+\Hy@linkcounter=\count117
+\Hy@pagecounter=\count118
 
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
 f"
@@ -669,7 +670,7 @@ File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count118
+\Hy@SavedSpaceFactor=\count119
 
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
 cfg"
@@ -682,14 +683,14 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count119
+\c@Hy@tempcnt=\count120
  ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5115.
 \XeTeXLinkMargin=\dimen138
-\Fld@menulength=\count120
+\Fld@menulength=\count121
 \Field@Width=\dimen139
 \Fld@charsize=\dimen140
 Package hyperref Info: Hyper figures OFF on input line 6369.
@@ -701,17 +702,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count121
-\c@Item=\count122
-\c@Hfootnote=\count123
+\Hy@abspage=\count122
+\c@Item=\count123
+\c@Hfootnote=\count124
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
 ef"
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count124
-\c@bookmark@seq@number=\count125
+\Fld@listcount=\count125
+\c@bookmark@seq@number=\count126
 
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
 check.sty"
@@ -748,16 +749,16 @@ Package caption Info: End \AtBeginDocument code.
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count126
+\scratchcounter=\count127
 \scratchdimen=\dimen141
 \scratchbox=\box30
-\nofMPsegments=\count127
-\nofMParguments=\count128
+\nofMPsegments=\count128
+\nofMParguments=\count129
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count129
+\MPscratchCnt=\count130
 \MPscratchDim=\dimen142
-\MPnumerator=\count130
-\makeMPintoPDFobject=\count131
+\MPnumerator=\count131
+\makeMPintoPDFobject=\count132
 \everyMPtoPDFconversion=\toks32
 )
 ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
@@ -786,7 +787,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count132
+\c@section@level=\count133
 )
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
@@ -807,115 +808,153 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Try loading font information for U+msb on input line 35.
  ("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 3019) in paragraph at lines 36--36
-[]\T1/cmr/bx/n/14.4 Introduction to Molec-u-lar
- []
+) [1
 
+
+{C:/Users/laksa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Chapter 1.
 
 Underfull \hbox (badness 2865) in paragraph at lines 47--48
 []\T1/cmr/m/n/10 Analytical so-lu-tions are pos-si-ble but time-
  []
 
-[1{C:/Users/laksa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.61 
+      [1
 
+
+] [2
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 69.
-
-("C:\Users\laksa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
-<plots/rdf.png, id=39, 929.4725pt x 586.19pt>
+Chapter 2.
+<plots/rdf.png, id=59, 929.4725pt x 586.19pt>
 File: plots/rdf.png Graphic file (type png)
 <use plots/rdf.png>
-Package pdftex.def Info: plots/rdf.png  used on input line 78.
+Package pdftex.def Info: plots/rdf.png  used on input line 70.
 (pdftex.def)             Requested size: 221.0pt x 139.37363pt.
 
-Underfull \hbox (badness 1014) in paragraph at lines 85--86
+Underfull \hbox (badness 1014) in paragraph at lines 77--78
 []\T1/cmr/m/n/10 g(r) cor-ro-la-tion func-tion, re-la-tion from bulk
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 87--89
+Underfull \hbox (badness 1147) in paragraph at lines 79--81
 []\T1/cmr/m/n/10 Nearing r<3 the rdf is 0 as well for both
  []
 
-<plots/Heatup/pot_energy_heatup.png, id=43, 344.78813pt x 274.02374pt>
-File: plots/Heatup/pot_energy_heatup.png Graphic file (type png)
-<use plots/Heatup/pot_energy_heatup.png>
-Package pdftex.def Info: plots/Heatup/pot_energy_heatup.png  used on input line
- 92.
-(pdftex.def)             Requested size: 180.67566pt x 143.59283pt.
-<plots/Heatup/temp_heatup.png, id=44, 344.78813pt x 274.02374pt>
-File: plots/Heatup/temp_heatup.png Graphic file (type png)
-<use plots/Heatup/temp_heatup.png>
-Package pdftex.def Info: plots/Heatup/temp_heatup.png  used on input line 99.
-(pdftex.def)             Requested size: 180.67566pt x 143.59283pt.
-<plots/potential_energy.png, id=45, 344.78813pt x 274.02374pt>
+[3
+
+ <./plots/rdf.png>]
+<plots/potential_energy.png, id=75, 344.78813pt x 274.02374pt>
 File: plots/potential_energy.png Graphic file (type png)
 <use plots/potential_energy.png>
-Package pdftex.def Info: plots/potential_energy.png  used on input line 106.
-(pdftex.def)             Requested size: 180.67566pt x 143.59283pt.
-<plots/temp_plot.png, id=50, 344.78813pt x 274.02374pt>
+Package pdftex.def Info: plots/potential_energy.png  used on input line 91.
+(pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
+<plots/temp_plot.png, id=76, 344.78813pt x 274.02374pt>
 File: plots/temp_plot.png Graphic file (type png)
 <use plots/temp_plot.png>
-Package pdftex.def Info: plots/temp_plot.png  used on input line 115.
-(pdftex.def)             Requested size: 180.67566pt x 143.59283pt.
-<plots//freezing/freezing_pot_en.png, id=51, 344.78813pt x 274.02374pt>
+Package pdftex.def Info: plots/temp_plot.png  used on input line 96.
+(pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 90--100
+[]$[]$
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 90--100
+[]$ 
+ []
+
+<plots//freezing/freezing_pot_en.png, id=77, 344.78813pt x 274.02374pt>
 File: plots//freezing/freezing_pot_en.png Graphic file (type png)
 <use plots//freezing/freezing_pot_en.png>
 Package pdftex.def Info: plots//freezing/freezing_pot_en.png  used on input lin
-e 122.
-(pdftex.def)             Requested size: 180.67566pt x 143.59283pt.
-<plots//freezing/freezing_temp.png, id=52, 344.78813pt x 274.02374pt>
+e 109.
+(pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
+<plots//freezing/freezing_temp.png, id=78, 344.78813pt x 274.02374pt>
 File: plots//freezing/freezing_temp.png Graphic file (type png)
 <use plots//freezing/freezing_temp.png>
 Package pdftex.def Info: plots//freezing/freezing_temp.png  used on input line 
-129.
-(pdftex.def)             Requested size: 180.67566pt x 143.59283pt.
+114.
+(pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
 
-Underfull \hbox (badness 1540) in paragraph at lines 136--137
+Overfull \hbox (5.0pt too wide) in paragraph at lines 108--118
+[]$[]$
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 108--118
+[]$ 
+ []
+
+[4 <./plots/potential_energy.png> <./plots/temp_plot.png> <./plots//freezing/fr
+eezing_pot_en.png> <./plots//freezing/freezing_temp.png>]
+<plots/Heatup/pot_energy_heatup.png, id=91, 344.78813pt x 274.02374pt>
+File: plots/Heatup/pot_energy_heatup.png Graphic file (type png)
+<use plots/Heatup/pot_energy_heatup.png>
+Package pdftex.def Info: plots/Heatup/pot_energy_heatup.png  used on input line
+ 128.
+(pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
+<plots/Heatup/temp_heatup.png, id=92, 344.78813pt x 274.02374pt>
+File: plots/Heatup/temp_heatup.png Graphic file (type png)
+<use plots/Heatup/temp_heatup.png>
+Package pdftex.def Info: plots/Heatup/temp_heatup.png  used on input line 132.
+(pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 127--135
+[]$[]$
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 127--135
+[]$ 
+ []
+
+[5
+
+ <./plots/Heatup/pot_energy_heatup.png> <./plots/Heatup/temp_heatup.png>]
+Underfull \hbox (badness 1540) in paragraph at lines 139--140
 []\T1/cmr/m/n/10 M.A.González: Force fields and molec-u-
  []
 
-[2 <./plots/rdf.png> <./plots/Heatup/pot_energy_heatup.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 [][]\T1/cmr/m/n/10 UV-visible ab-sorp-tion spec-tra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 [][]\T1/cmr/m/n/10 Virialsatz [physik.comsoms-indirekt.de][]
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 142--143
+Underfull \hbox (badness 1817) in paragraph at lines 145--146
 [][]\T1/cmr/m/n/10 RDF[](Zugegriffen am 21.03.2019 um 9:09
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
-[3 <./plots/Heatup/temp_heatup.png> <./plots/potential_energy.png> <./plots/tem
-p_plot.png>] [4
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
+[6
 
- <./plots//freezing/freezing_pot_en.png> <./plots//freezing/freezing_temp.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
  (tex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
 Package rerunfilecheck Info: File `tex.out' has not changed.
-(rerunfilecheck)             Checksum: 78BF673C8A0E56258931E2EDA761D087;243.
+(rerunfilecheck)             Checksum: EEC1A38074D987C0C315328B0E4BC887;400.
  ) 
 Here is how much of TeX's memory you used:
- 9183 strings out of 493305
- 136185 string characters out of 3129802
- 240356 words of memory out of 3000000
- 12551 multiletter control sequences out of 15000+200000
- 17050 words of font info for 54 fonts, out of 3000000 for 9000
+ 9191 strings out of 493305
+ 136093 string characters out of 3129802
+ 237786 words of memory out of 3000000
+ 12556 multiletter control sequences out of 15000+200000
+ 20135 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,8n,43p,817b,493s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,40p,817b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3490
 93/?page=4} has been referenced but does not exist, replaced by a fixed one
 
@@ -930,22 +969,25 @@ y.html} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\laksa\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ec
 ti1000.pk> <C:\Users\laksa\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
-\dpi600\ecbx1200.pk> <C:\Users\laksa\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
-knappen\ec\dpi600\ecrm1000.pk> <C:\Users\laksa\AppData\Local\MiKTeX\2.9\fonts\p
-k\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\laksa\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\laksa\AppData\Loca
-l\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\laksa\Ap
-pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Users
-/laksa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.
-pfb><C:/Users/laksa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmmi5.pfb><C:/Users/laksa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmmi7.pfb><C:/Users/laksa/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/laksa/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/laksa/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tex.pdf (4 pages, 200085 bytes).
+\dpi600\ecrm0900.pk> <C:\Users\laksa\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
+knappen\ec\dpi600\ecbx1440.pk> <C:\Users\laksa\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\laksa\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\laksa\AppData\Loca
+l\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Users\laksa\Ap
+pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\User
+s\laksa\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
+> <C:\Users\laksa\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+crm1728.pk><C:/Users/laksa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb><C:/Users/laksa/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/laksa/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/laksa/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/laksa/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/User
+s/laksa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.p
+fb>
+Output written on tex.pdf (7 pages, 225082 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 429 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
