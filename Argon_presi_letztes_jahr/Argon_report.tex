@@ -1,0 +1,117 @@
+\documentclass[10pt, a4paper, oneside]{article}
+
+% encoding and language
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage[babel]{csquotes}
+
+% math packages
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{mathrsfs}
+\usepackage{amssymb}
+
+% graphics support
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage{float}
+\usepackage{color}
+
+% nice tables
+\usepackage{booktabs}
+
+% hyperrefs
+\usepackage{hyperref}
+
+% metadata
+\title{Bioinformatics Practicum\\\textbf{Phase transitions of argon}}
+\author{Patrick Raaf, Esengül Sevimli, Moritz Ziegler  \\\href {mailto: praaf@students.uni-mainz.de} {mailto: sevimli@students.uni-mainz.de} {mailto: mziegle@students.uni-mainz.de}}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+%======================================================================================
+\section{Introduction}
+\subsection{Molecular dynamics (MD)}
+Molecular dynamics is an integrative field of physics and computer science that aims to model the behavior of all atoms in a relatively small virual sample volume. To reduce the complexity of this problem, most MD simulations ignore quantum mechanics and model only covalent bonds, Van-der-Waals radii and electrostatic interactions and try to solve the trajectory and position of each atom for all time steps of a simulation.
+
+This approach is aided by deriving all forces the atoms exert on each other from a force field equation, a mathematical model that serves to lookup the gradient of potential energy on each atom at a given timepoint. The Amber force field (Eq.~\ref{eq1}) for example adds the potential energy of covalent bond distances (first term), covalent bond angles (second term), rotations on covalent bonds and stiffness of covalent double-bonds (third term), Lennard-Jones potential (fourth term) and Coloumb - interatomic electrostatic - potential (fifth term).
+
+
+\begin{equation*}
+\label{eq1}
+\begin{split}
+V_{AMBER} = \sum\limits_{i}^{n_{bonds}} b_i(r_i-r_{i,eq})^2+ 
+\, \Sigma_{i}^{n_{angles}} a_i(\theta_i - \theta_{i,eq})^2 \\
+\&quad + \Sigma_{i}^{n_{dihedrals}} \Sigma_{n}^{n_{i,max}} (V_{i,n}/2)[1+\cos(n \psi_i - \gamma_{i,n}] \\
+\&quad + \Sigma_{i<j}^{n_{atoms}}\left( \frac{A_{ij}}{r^{12}_{ij}} - \f-rac{B_{ij}}{r^{6}_{ij}} \right) +
+\, \Sigma_{i<j}^{n_{atoms}}\frac{q_i q_j}{4 \pi \varepsilon_0 r_{ij}} 
+\end{split}
+\end{equation*}
+%======================================================================================
+%\section{Questions}
+
+
+%======================================================================================
+\section{Some \LaTeX ~examples}
+\subsection{Paragraphs, citations, and footnotes}
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus \textbf{et magnis dis parturient montes}, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus~\cite{schroeder2009}.
+
+Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus\footnote{Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.}. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. \textit{Etiam sit amet orci eget eros faucibus tincidunt}~\cite{meinicke2015}.
+
+\subsection{Equations}
+You can ``in-line'' small equations like this: $\vec{F}(\vec{r}) = -q\vec{\nabla}\varphi(\vec{r})$. Otherwise, equations should be in a separate line like this:
+
+\begin{equation*}
+H: \mathrm T^\ast \mathcal Q \rightarrow  \mathbb R^+ \cup \{0\} \, , \, (q,p) \mapsto \frac{p^2}{2m} + \frac{m \omega^2 q^2}{2}
+\end{equation*}
+If you want to refer to them somewhere in your text, you should assign a number (Eq.~\ref{myequation}).
+
+\begin{equation}
+\label{myequation}
+H: \mathrm T^\ast \mathcal Q \rightarrow  \mathbb R^+ \cup \{0\} \, , \, (q,p) \mapsto \frac{p^2}{2m} + \frac{m \omega^2 q^2}{2}
+\end{equation}
+
+\subsection{Tables and figures}
+
+Figure placement can be automatically decided on the basis of a set of restraints given in brackets (see comments in the code). For example, Fig.~\ref{myfigure} is always located at the top area of a page (\texttt{[t]}).
+
+\begin{figure}[t] % place the figures at the top ([t]) or bottom ([b]) of the page or use a separate page ([p])
+	\centering
+	
+	% replace the \rule line below with the following one to include an image from your file system and set the size constraint accordingly
+	%\includegraphics[width=200px]{path/to/your/image.pdf}
+	\rule{200px}{100px}
+	
+	\caption{Always provide a short description of the figure.}
+	\label{myfigure}
+\end{figure}
+
+\begin{table}[h] % [h]: do not move the table/figure, if possible
+	\centering
+	\begin{tabular}{llcr} % 4 columns: left, left, centered, right
+		\toprule
+		Row No. & Left & Centered & Right \\
+		\midrule
+		1 & lorem & a & 3.14\\
+		2 & consectetur & bcd & 1.4142\\
+		3 & elit & ef & 1.618\\
+		\bottomrule
+	\end{tabular}
+	\caption{Always provide a short description of the table.}
+	\label{mytable}
+\end{table}
+
+Each table and figure should be referred to in your text, no matter their exact location (Table~\ref{mytable}).
+
+\begin{thebibliography}{100}
+% This is the most simple (but not necessarily consistent) way of including references. Feel free to use any superior method (e.g., BibTeX) you like.
+\bibitem{schroeder2009} J. Schröder, H. Schröder, S. J. Puglisi, R. Sinha, and B. Schmidt. SHREC: a shrot-read error correction method. \textit{Bioinformatics}, 25(17): 2157--2163. 2009.
+\bibitem{meinicke2015} P. Meinicke. UProc: tools for ultra-fast protein domain classification. \textit{Bioinformatics}, 31(9): 1382--1388. 2015.
+%\bibitem{mykey} Another entry
+%...
+\end{thebibliography}
+
+\end{document}
