@@ -1,0 +1,74 @@
+# This file was created Thu Mar 21 16:10:22 2019
+# Created by:
+#                     :-) GROMACS - gmx density, 2019.1 (-:
+# 
+# Executable:   /usr/local/gromacs/bin/gmx
+# Data prefix:  /usr/local/gromacs
+# Working dir:  /home/stephan/Schreibtisch/Task 5/Project5/traj heatup
+# Command line:
+#   gmx density -s topol.tpr -f traj.trr -o argon_density.xvg
+# gmx density is part of G R O M A C S:
+#
+# GROningen MAchine for Chemical Simulation
+#
+@    title "Partial density"
+@    xaxis  label "Coordinate (nm)"
+@    yaxis  label "Density (kg m\S-3\N)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Ar"
+    0.077395          18.9357
+    0.232185          19.8354
+    0.386975           19.307
+    0.541765          20.9492
+    0.696555          19.6925
+    0.851345          19.5783
+     1.00613          19.8068
+     1.16093          19.8211
+     1.31571          18.7786
+      1.4705          17.9789
+      1.6253          16.1368
+     1.78008          14.7801
+     1.93488          13.9233
+     2.08966          12.7238
+     2.24446          10.7959
+     2.39925          9.62493
+     2.55403          8.36826
+     2.70882          8.48251
+     2.86362          8.21118
+      3.0184          8.78239
+     3.17319          9.89626
+     3.32799          10.9958
+     3.48277          11.3814
+     3.63756          12.0811
+     3.79236           13.195
+     3.94714          12.3382
+     4.10193          12.2525
+     4.25672          10.5674
+     4.41151          10.0533
+     4.56631          8.71099
+      4.7211          7.96841
+     4.87589          6.89739
+     5.03067          6.95451
+     5.18546          8.29686
+     5.34025          8.29686
+     5.49505          9.66777
+     5.64984          10.4675
+     5.80463          12.1954
+     5.95941          14.0661
+      6.1142          15.7226
+     6.26899          16.6937
+     6.42378          20.2923
+     6.57858          20.4066
+     6.73337          20.7207
+     6.88815          21.0063
+     7.04294          20.8778
+     7.19773          20.3352
+     7.35252          19.6069
+     7.50732          18.9071
+     7.66211          18.0789
