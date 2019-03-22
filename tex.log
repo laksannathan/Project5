@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.30)  22 MAR 2019 14:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.30)  22 MAR 2019 14:39
 entering extended mode
 **./tex.tex
 (tex.tex
@@ -826,131 +826,120 @@ l.61
       [1
 
 
-] [2
-
 ]
-Chapter 2.
-<plots/rdf.png, id=59, 929.4725pt x 586.19pt>
+<plots/rdf.png, id=55, 929.4725pt x 586.19pt>
 File: plots/rdf.png Graphic file (type png)
 <use plots/rdf.png>
-Package pdftex.def Info: plots/rdf.png  used on input line 70.
+Package pdftex.def Info: plots/rdf.png  used on input line 68.
 (pdftex.def)             Requested size: 221.0pt x 139.37363pt.
 
-Underfull \hbox (badness 1014) in paragraph at lines 77--78
-[]\T1/cmr/m/n/10 g(r) cor-ro-la-tion func-tion, re-la-tion from bulk
- []
-
-
-Underfull \hbox (badness 1147) in paragraph at lines 79--81
+Underfull \hbox (badness 1147) in paragraph at lines 77--79
 []\T1/cmr/m/n/10 Nearing r<3 the rdf is 0 as well for both
  []
 
-[3
-
- <./plots/rdf.png>]
-<plots/potential_energy.png, id=75, 344.78813pt x 274.02374pt>
+<plots/potential_energy.png, id=61, 344.78813pt x 274.02374pt>
 File: plots/potential_energy.png Graphic file (type png)
 <use plots/potential_energy.png>
-Package pdftex.def Info: plots/potential_energy.png  used on input line 91.
+Package pdftex.def Info: plots/potential_energy.png  used on input line 87.
 (pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
-<plots/temp_plot.png, id=76, 344.78813pt x 274.02374pt>
+<plots/temp_plot.png, id=62, 344.78813pt x 274.02374pt>
 File: plots/temp_plot.png Graphic file (type png)
 <use plots/temp_plot.png>
-Package pdftex.def Info: plots/temp_plot.png  used on input line 96.
+Package pdftex.def Info: plots/temp_plot.png  used on input line 92.
 (pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 90--100
+Overfull \hbox (5.0pt too wide) in paragraph at lines 86--96
 []$[]$
  []
 
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 90--100
+Overfull \hbox (5.0pt too wide) in paragraph at lines 86--96
 []$ 
  []
 
-<plots//freezing/freezing_pot_en.png, id=77, 344.78813pt x 274.02374pt>
+<plots//freezing/freezing_pot_en.png, id=63, 344.78813pt x 274.02374pt>
 File: plots//freezing/freezing_pot_en.png Graphic file (type png)
 <use plots//freezing/freezing_pot_en.png>
 Package pdftex.def Info: plots//freezing/freezing_pot_en.png  used on input lin
-e 109.
+e 105.
 (pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
-<plots//freezing/freezing_temp.png, id=78, 344.78813pt x 274.02374pt>
+<plots//freezing/freezing_temp.png, id=64, 344.78813pt x 274.02374pt>
 File: plots//freezing/freezing_temp.png Graphic file (type png)
 <use plots//freezing/freezing_temp.png>
 Package pdftex.def Info: plots//freezing/freezing_temp.png  used on input line 
-114.
+110.
 (pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 108--118
+Overfull \hbox (5.0pt too wide) in paragraph at lines 104--114
 []$[]$
  []
 
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 108--118
+Overfull \hbox (5.0pt too wide) in paragraph at lines 104--114
 []$ 
  []
 
-[4 <./plots/potential_energy.png> <./plots/temp_plot.png> <./plots//freezing/fr
-eezing_pot_en.png> <./plots//freezing/freezing_temp.png>]
-<plots/Heatup/pot_energy_heatup.png, id=91, 344.78813pt x 274.02374pt>
+[2 <./plots/rdf.png>] [3 <./plots/potential_energy.png> <./plots/temp_plot.png>
+ <./plots//freezing/freezing_pot_en.png> <./plots//freezing/freezing_temp.png>]
+<plots/Heatup/pot_energy_heatup.png, id=87, 344.78813pt x 274.02374pt>
 File: plots/Heatup/pot_energy_heatup.png Graphic file (type png)
 <use plots/Heatup/pot_energy_heatup.png>
 Package pdftex.def Info: plots/Heatup/pot_energy_heatup.png  used on input line
- 128.
+ 123.
 (pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
-<plots/Heatup/temp_heatup.png, id=92, 344.78813pt x 274.02374pt>
+<plots/Heatup/temp_heatup.png, id=88, 344.78813pt x 274.02374pt>
 File: plots/Heatup/temp_heatup.png Graphic file (type png)
 <use plots/Heatup/temp_heatup.png>
-Package pdftex.def Info: plots/Heatup/temp_heatup.png  used on input line 132.
+Package pdftex.def Info: plots/Heatup/temp_heatup.png  used on input line 127.
 (pdftex.def)             Requested size: 192.10138pt x 152.67453pt.
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 127--135
+Overfull \hbox (5.0pt too wide) in paragraph at lines 122--130
 []$[]$
  []
 
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 127--135
+Overfull \hbox (5.0pt too wide) in paragraph at lines 122--130
 []$ 
  []
 
-[5
+[4
 
  <./plots/Heatup/pot_energy_heatup.png> <./plots/Heatup/temp_heatup.png>]
-Underfull \hbox (badness 1540) in paragraph at lines 139--140
+Underfull \hbox (badness 1540) in paragraph at lines 134--135
 []\T1/cmr/m/n/10 M.A.González: Force fields and molec-u-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 [][]\T1/cmr/m/n/10 UV-visible ab-sorp-tion spec-tra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 [][]\T1/cmr/m/n/10 Virialsatz [physik.comsoms-indirekt.de][]
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 145--146
+Underfull \hbox (badness 1817) in paragraph at lines 140--141
 [][]\T1/cmr/m/n/10 RDF[](Zugegriffen am 21.03.2019 um 9:09
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
-[6
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+[5
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
  (tex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
 Package rerunfilecheck Info: File `tex.out' has not changed.
-(rerunfilecheck)             Checksum: EEC1A38074D987C0C315328B0E4BC887;400.
+(rerunfilecheck)             Checksum: F31FD1BED0B849330D0EA3584B9DFF9A;411.
  ) 
 Here is how much of TeX's memory you used:
- 9191 strings out of 493305
- 136093 string characters out of 3129802
- 237786 words of memory out of 3000000
+ 9190 strings out of 493305
+ 136091 string characters out of 3129802
+ 239786 words of memory out of 3000000
  12556 multiletter control sequences out of 15000+200000
  20135 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -985,9 +974,9 @@ rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/laksa/App
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/User
 s/laksa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.p
 fb>
-Output written on tex.pdf (7 pages, 225082 bytes).
+Output written on tex.pdf (6 pages, 224454 bytes).
 PDF statistics:
- 429 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
+ 424 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
  92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
